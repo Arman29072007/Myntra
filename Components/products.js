@@ -1,0 +1,118 @@
+const products = [
+  {
+    id: 1,
+    category: "camera",
+    image: "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/g/5/p/eos-18-eos-3000d-canon-original-imahbfq7fjbpzgvm.jpeg?q=70",
+    title: "Top Mirrorless...",
+    cta: "Shop Now!",
+  },
+  {
+    id: 2,
+    category: "headphones",
+    image: "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/k/a/3/-original-imagxaxaxgjzrcfe.jpeg?q=70",
+    title: "Best Truewireless...",
+    cta: "Grab Now",
+  },
+  {
+    id: 3,
+    category: "monitors",
+    image: "https://rukminim2.flixcart.com/image/312/312/kxnl6kw0/monitor/r/z/m/vg279qr-full-hd-27-90lm04g0-b02310-asus-original-imaga25uqaxnhk26.jpeg?q=70",
+    title: "ASUS Monitors",
+    cta: "From ₹14999",
+  },
+  {
+    id: 4,
+    category: "smartwatches",
+    image: "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/s/i/u/-original-imah76jt64ffmwg4.jpeg?q=70",
+    title: "Noise Smartwatch",
+    cta: "From ₹1,099",
+  },
+  {
+    id: 5,
+    category: "monitors",
+    image: "https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/w/8/u/-original-imahafudnzwzy7hv.jpeg?q=70",
+    title: "Dell Monitor",
+    cta: "From ₹10,999",
+  },
+  {
+    id: 6,
+    category: "shoes",
+    image: "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/i/z/h/-original-imah4syzgvnexbfr.jpeg?q=70",
+    title: "Puma Running Shoes",
+    cta: "From ₹2,999",
+  },
+  {
+    id: 7,
+    category: "headphones",
+    image: "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/f/8/-original-imahae3g84uzxbsz.jpeg?q=70",
+    title: "boAt Earbuds",
+    cta: "Limited Offer!",
+  },
+  {
+    id: 8,
+    category: "watches",
+    image: "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/p/5/x/1-nt1805qm01-titan-men-original-imahdujqkjqkapqp.jpeg?q=70",
+    title: "Titan Watch",
+    cta: "Only ₹1,599",
+  },
+  {
+    id: 9,
+    category: "clothing",
+    image: "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/i/g/s-os-100-vdorgnl-grn117-veirdo-original-imah4fy3zb5paeaj.jpeg?q=70",
+    title: "Men’s T-shirt",
+    cta: "Combo Deals",
+  },
+  {
+    id: 10,
+    category: "bags",
+    image: "https://rukminim2.flixcart.com/image/612/612/xif0q/rucksack/o/c/y/-original-imagzy3gk6qgxd8w.jpeg?q=70",
+    title: "Travel Backpack",
+    cta: "From ₹999",
+  },
+  {
+    id: 11,
+    category: "camera",
+    image: "https://rukminim2.flixcart.com/image/312/312/xif0q/instant-camera/f/4/g/digital-camera-2024-cn8-ic-plus-original-imah235vmnznaygz.jpeg?q=70",
+    title: "Top Mirrorless...",
+    cta: "Shop Now!",
+  }
+  ,
+  {
+    id: 12,
+    category: "camera",
+    image: "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/1/9/j/d7500-20-9-d7500-nikon-original-imah3ubrv5y2vynk.jpeg?q=70",
+    title: "Top Mirrorless...",
+    cta: "Shop Now!",
+  }
+  ,
+  {
+    id: 13,
+    category: "camera",
+    image: "https://rukminim2.flixcart.com/image/312/312/l3hmwsw0/dslr-camera/e/w/n/camera-e-m5-mark-iii-blk-20-om-d-e-m5-mark-iii-blk-olympus-original-imagehphwut7gzje.jpeg?q=70",
+    title: "Top Mirrorless...",
+    cta: "Shop Now!",
+  },
+  {
+    id: 14,
+    category: "clothing",
+    image: "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/i/g/s-os-100-vdorgnl-grn117-veirdo-original-imah4fy3zb5paeaj.jpeg?q=70",
+    title: "Men’s T-shirt",
+    cta: "Combo Deals",
+  },
+  {
+    id: 15,
+    category: "clothing",
+    image: "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/i/g/s-os-100-vdorgnl-grn117-veirdo-original-imah4fy3zb5paeaj.jpeg?q=70",
+    title: "Men’s T-shirt",
+    cta: "Combo Deals",
+  },
+  {
+    id: 16,
+    category: "clothing",
+    image: "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/c/i/g/s-os-100-vdorgnl-grn117-veirdo-original-imah4fy3zb5paeaj.jpeg?q=70",
+    title: "Men’s T-shirt",
+    cta: "Combo Deals",
+  },
+];
+
+export default products;
